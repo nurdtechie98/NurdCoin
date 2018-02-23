@@ -1,5 +1,5 @@
 # NurdCoin
-My attempt to implement decentralized block-chain by creating a over-simplified Bitcoin like crypto-currency in python using flask named **NurdCoin**
+My attempt to implement decentralized block-chain by creating an over-simplified Bitcoin like crypto-currency in python using flask named **NurdCoin**
 
 ## Features Implemented:
 * Decentalized BlockChain
